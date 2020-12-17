@@ -39,4 +39,4 @@ python3 x-sqli.py <DORK>
 
 # Example
 
-![Example](https://i.imgur.com/TEIoBmJ.gif)
+![Example](https://i.imgur.com/TEIoBmJ.mp4)
