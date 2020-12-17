@@ -183,7 +183,7 @@ def main():
 
         if continueIn.lower() == 'y':
             f = open('targets.txt', 'a')
-            f.write('========================X-INJECT========================\n\n')
+            f.write('========================X-SQLI========================\n\n')
             for target in injectionTargets:
                 f.write(f'{target}\n')
                 
